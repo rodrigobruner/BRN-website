@@ -1,0 +1,22 @@
+{
+  "Index": {
+    "title": "Rodrigo Bruner"
+  },
+  "LocaleSwitcher": {
+    "code": "en-US",
+    "language": "English"
+  },
+  "Home": {
+    "resume": "Minha apresentação",
+    "salutation": "Olá! Eu sou o Rodrigo.",
+    "jobRole": "Profissional de desenvolvimento de software",
+    "description": "Pai do Ben, gerente de desenvolvimento de sistema e amante de tecnologia.",
+    "btLinkdIn": "Contrate-me"
+  },
+  "About": {
+    "pageTitle": "Sobre"
+  },
+  "PageLayout": {
+    "pageTitle": "next-intl"
+  }
+}

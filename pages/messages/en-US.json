@@ -1,0 +1,22 @@
+{
+  "Index": {
+    "title": "Rodrigo Bruner"
+  },
+  "LocaleSwitcher": {
+    "code": "pt-BR",
+    "language": "Português"
+  },
+  "Home": {
+    "resume": "My Resume",
+    "salutation": "Hi! This is Rodrigo Bruner",
+    "jobRole": "A Professional System Developer",
+    "description": "Ben's father, software development manager and technology lover.",
+    "btLinkdIn": "Hire me"
+  },
+  "About": {
+    "pageTitle": "Sobre"
+  },
+  "PageLayout": {
+    "pageTitle": "next-intl"
+  }
+}
